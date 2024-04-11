@@ -1,0 +1,92 @@
+{
+  "appName": {
+    "message": "Помощник по изучению языков"
+  },
+  "appDescription": {
+    "message": "Переводчик с поиском в Википедии"
+  },
+  "appVersion": {
+    "message": "Версия"
+  },
+  "appAuthor": {
+    "message": "Разработчик"
+  },
+  "appOptions": {
+    "message": "Настройки переводчика"
+  },
+  "appTitle": {
+    "message": "Переводчик"
+  },
+  "appSourceCode": {
+    "message": "Исходный код"
+  },
+  "openShortcut": {
+    "message": "Открыть переводчик"
+  },
+  "translate": {
+    "message": "Перевести"
+  },
+  "translatePage": {
+    "message": "Перевести активную страницу"
+  },
+  "openInNewWindow": {
+    "message": "Открыть переводчик в отдельном окне"
+  },
+  "clear": {
+    "message": "Очистить"
+  },
+  "reverseTranslation": {
+    "message": "Обратный перевод"
+  },
+  "swapLanguages": {
+    "message": "Поменять местами"
+  },
+  "sourcePlaceholder": {
+    "message": "Исходный текст"
+  },
+  "targetPlaceholder": {
+    "message": "Перевод"
+  },
+  "reversePlaceholder": {
+    "message": "Обратный перевод"
+  },
+  "detectedLanguage": {
+    "message": "Определён: $1"
+  },
+  "errorUnknown": {
+    "message": "Неизвестная ошибка, попробуйте перевести позже"
+  },
+  "errorTooManyRequests": {
+    "message": "Слишком много запросов, попробуйте перевести через несколько минут"
+  },
+  "errorUriTooLong": {
+    "message": "Слишком длинный текст, попробуйте перевести его по частям"
+  },
+  "shortcuts": {
+    "message": "Быстрые клавиши"
+  },
+  "shortcutEdit": {
+    "message": "Редактировать"
+  },
+  "shortcutNotSet": {
+    "message": "Не задано"
+  },
+  "shortcutEnter": {
+    "message": "Укажите быстрые клавиши"
+  },
+  "shortcutErrorModifierRequired": {
+    "message": "Сочетание должно начинаться с клавиши Ctrl или Alt"
+  },
+  "shortcutErrorLetterRequired": {
+    "message": "Необходимо добавить букву"
+  },
+  "troubleshooting": {
+    "message": "Сброс настроек"
+  },
+  "troubleshootingResetSettings": {
+    "message": "Восстановление настроек по умолчанию"
+  },
+  "troubleshootingResetSettingsQuestion": {
+    "message": "Сбросить настройки?"
+  }
+}

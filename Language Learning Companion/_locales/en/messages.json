@@ -1,0 +1,95 @@
+{
+  "appName": {
+    "message": "Language Learning Companion"
+  },
+  "appDescription": {
+    "message": "A Translator with Wikipedia Search "
+  },
+  "appVersion": {
+    "message": "Version"
+  },
+  "appAuthor": {
+    "message": "Author"
+  },
+  "appOptions": {
+    "message": "Translator Settings"
+  },
+  "appTitle": {
+    "message": "Translator"
+  },
+  "appSourceCode": {
+    "message": "Source Code"
+  },
+  "openShortcut": {
+    "message": "Language Learning Companion"
+  },
+  "translate": {
+    "message": "Translate"
+  },
+  "translatePage": {
+    "message": "Translate active page"
+  },
+  "searchWiki": {
+    "message": "Search"
+  },
+  "openInNewWindow": {
+    "message": "Open Companion in new window"
+  },
+  "clear": {
+    "message": "Clear"
+  },
+  "reverseTranslation": {
+    "message": "Reverse translation"
+  },
+  "swapLanguages": {
+    "message": "Swap"
+  },
+  "sourcePlaceholder": {
+    "message": "Source text"
+  },
+  "targetPlaceholder": {
+    "message": "Translation"
+  },
+  "reversePlaceholder": {
+    "message": "Reverse translation"
+  },
+  "detectedLanguage": {
+    "message": "Detected: $1"
+  },
+  "errorUnknown": {
+    "message": "Unknown error, please try to translate later"
+  },
+  "errorTooManyRequests": {
+    "message": "Too many requests, try to translate in a few minutes"
+  },
+  "errorUriTooLong": {
+    "message": "The text is too long, try to translate it in parts"
+  },
+  "shortcuts": {
+    "message": "Keyboard shortcuts"
+  },
+  "shortcutEdit": {
+    "message": "Edit shortcut"
+  },
+  "shortcutNotSet": {
+    "message": "Not set"
+  },
+  "shortcutEnter": {
+    "message": "Type a shortcut"
+  },
+  "shortcutErrorModifierRequired": {
+    "message": "Include either Ctrl or Alt"
+  },
+  "shortcutErrorLetterRequired": {
+    "message": "Type a letter"
+  },
+  "troubleshooting": {
+    "message": "Reset"
+  },
+  "troubleshootingResetSettings": {
+    "message": "Restore settings to their original defaults"
+  },
+  "troubleshootingResetSettingsQuestion": {
+    "message": "Reset settings?"
+  }
+}
