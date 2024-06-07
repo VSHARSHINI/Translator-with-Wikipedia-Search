@@ -1,5 +1,5 @@
 # Translator-with-Wikipedia-Search
-This translator helps to connect with Googlr Translator for translating to your understandale language without navigating to a new tab; Also helps you to utilize Wikipedia Special search for exploring more about your query.
+This translator helps to connect with Google Translator for translating to your understandable language without navigating to a new tab; Also helps you to utilize Wikipedia Special search for exploring more about your query.
 
 # Reference 
 our refernce for translator is: https://github.com/tarcode-apps/open-translator
